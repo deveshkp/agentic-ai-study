@@ -71,7 +71,7 @@ CREATE INDEX IF NOT EXISTS idx_chunks_doc ON chunks(doc_id);
 """
 
 # -----------------------------
-# DB helpers
+# DB helperswinget install Python.Python.3python -m pip install --upgrade pip
 # -----------------------------
 
 def db_connect(db_path: str) -> sqlite3.Connection:
