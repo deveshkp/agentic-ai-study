@@ -1,0 +1,15 @@
+# Node / frontend
+node_modules/
+
+# Python virtual environments
+venv/
+.venv/
+env/
+```// filepath: c:\Users\deves\projects\research\.gitignore
+# Node / frontend
+node_modules/
+
+# Python virtual environments
+venv/
+.venv/
+env/
